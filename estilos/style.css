@@ -41,7 +41,9 @@ iframe#tela {
     height: 471px;
 }
 
-
+section#networks {
+    text-align:  center;
+}
 
 
 section#networks img {
